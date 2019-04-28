@@ -1,0 +1,6 @@
+[03-Oct-2017 00:24:36 Asia/Manila] PHP Notice:  Undefined index: customerid in /home/asdfuser/public_html/online/orders.php on line 43
+[03-Oct-2017 12:56:15 Asia/Manila] PHP Notice:  Undefined index: customerid in /home/asdfuser/public_html/online/orders.php on line 43
+[04-Oct-2017 23:06:46 Asia/Manila] PHP Notice:  Undefined index: customerid in /home/asdfuser/public_html/online/orders.php on line 43
+[16-Oct-2017 03:40:40 Asia/Manila] PHP Notice:  Undefined index: emailaddress in /home/asdfuser/public_html/online/reset.php on line 3
+[16-Oct-2017 03:41:35 Asia/Manila] PHP Notice:  Undefined index: emailaddress in /home/asdfuser/public_html/online/reset.php on line 3
+[16-Oct-2017 04:05:05 Asia/Manila] PHP Notice:  Undefined index: emailaddress in /home/asdfuser/public_html/online/reset.php on line 3
